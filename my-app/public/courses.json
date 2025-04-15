@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Introduction à JavaScript",
+        "description": "Apprendre les bases du langage JavaScript, incluant les variables, les fonctions et les boucles."
+    },
+    {
+        "title": "Développement Frontend avec React",
+        "description": "Créer des applications dynamiques avec React, composants, hooks et gestion de l'état."
+    },
+    {
+        "title": "API REST avec Node.js",
+        "description": "Créer et sécuriser des API REST avec Express et Node.js."
+    },
+    {
+        "title": "Gestion de base de données avec PostgreSQL",
+        "description": "Apprendre à utiliser PostgreSQL pour stocker et interroger des données."
+    },
+    {
+        "title": "Déploiement sur AWS",
+        "description": "Déployer des applications web avec EC2, RDS et Docker."
+    },
+    {
+        "title": "Introduction aux microservices",
+        "description": "Comprendre les concepts de microservices et les implémenter avec Node.js."
+    },
+    {
+        "title": "Initiation à Next.js",
+        "description": "Découvrir les avantages du framework Next.js pour des applications web modernes."
+    },
+    {
+        "title": "GraphQL pour les développeurs",
+        "description": "Mettre en place un serveur GraphQL avec Apollo et gérer les requêtes complexes."
+    }
+]
